@@ -8,7 +8,8 @@ These are notebooks with implementations of different GAN architectures on diffe
 
 ## Notebooks
 
-<!-- [**GAN: Generative Adversarial Networks**](https://arxiv.org/abs/1406.2661) (Goodfellow et al. 2014) -->
+* [**GAN: Generative Adversarial Networks**](https://arxiv.org/abs/1406.2661) (Goodfellow et al. 2014)
+  - [MNIST](./gan/mnist.ipynb)
 <!-- [**cGAN: Conditional Generative Adversarial Nets**](https://arxiv.org/abs/1411.1784) (Mirza & Osindero 2014) -->
 * [**DCGAN: Deep Convolutional Generative Adversarial Nets**](https://arxiv.org/abs/1511.06434) (Radford et al. 2015)
   - [MNIST](./dcgan/mnist.ipynb)
@@ -23,7 +24,7 @@ These are notebooks with implementations of different GAN architectures on diffe
 
 ## Resources
 
-* <https://www.freecodecamp.org/news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394>
-* <https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks>
-* <https://neptune.ai/blog/gan-loss-functions>
-* [NIPS Tutorial: GANs](https://arxiv.org/abs/1701.00160) (Ian Goodfellow 2016)
+* [freeCodeCamp](https://www.freecodecamp.org/news/an-intuitive-introduction-to-generative-adversarial-networks-gans-7a2264a81394)
+* [Seita's Place](https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks)
+* [Neptune.ai](https://neptune.ai/blog/gan-loss-functions)
+* [NIPS Tutorial: GANs](https://arxiv.org/abs/1701.00160) (Goodfellow 2016)
